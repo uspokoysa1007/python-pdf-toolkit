@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+releases/*.bat
+!releases/
+!releases/source_code.zip
+output/
